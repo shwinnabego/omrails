@@ -6,7 +6,7 @@ $btnPrimaryBackground: green;
 $navbarBackgroundHighlight: white;
 $navbarBackground: white;
 
-
+ 
 @import 'bootstrap';
 
 body {
@@ -14,11 +14,6 @@ body {
 }
 
 @import 'bootstrap-responsive';
-
-.thumbnails {
-	font-family:helvetica;
-
-}
 
 .navbar-inner {
 	@include box-shadow(none !important);
