@@ -17,3 +17,6 @@ doc/
 *.swp
 .project
 .idea
+
+# Ignore Paperclip uploaded files
+/public/system
